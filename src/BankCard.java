@@ -14,4 +14,6 @@ public class BankCard {
         this.expiracyYear = expiracyYear;
         this.cvc = cvc;
     }
+
+    
 }

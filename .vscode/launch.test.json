@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "Mufasa2018",
+                "projectName": "Mufasa2018",
+                "workingDirectory": "c:\\OULU\\SQT\\Mufasa",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "Mufasa2018",
+                "projectName": "Mufasa2018",
+                "workingDirectory": "c:\\OULU\\SQT\\Mufasa",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}
